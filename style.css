@@ -23,12 +23,12 @@ h1 {
 }
 
 body {
-  background-color: #E6E6FA;
+  background-color: #7700ff;
 }
 
 body {
-    background-color: #1D4221;
-    color: white;
+    background-color: #5f06ec;
+    color: rgb(104, 6, 233);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
@@ -38,16 +38,16 @@ body {
 }
 
 button {
-    background-color: #64A712;
-    color: white;
+    background-color: #870cec;
+    color: rgb(142, 13, 228);
     font-family: "Bai Jamjuree", sans-serif;
 }
 h1 {
-  color: #FF6347;
+  color: #9707eb;
 }
 
 body {
-  background-color: #E6E6FA;
+  background-color: #860ee9;
 }
 .passo.ativo {
     display:block;
