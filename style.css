@@ -27,7 +27,7 @@ body {
 }
 
 body {
-    background-color: #5f06ec;
+    background-color: #5e06ec00;
     color: rgb(104, 6, 233);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
@@ -39,7 +39,7 @@ body {
 
 button {
     background-color: #870cec;
-    color: rgb(142, 13, 228);
+    color: rgba(142, 13, 228, 0);
     font-family: "Bai Jamjuree", sans-serif;
 }
 h1 {
