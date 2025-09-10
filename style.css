@@ -27,8 +27,8 @@ body {
 }
 
 body {
-    background-color: #5e06ec00;
-    color: rgba(104, 6, 233, 0.062);
+    background-color: #5f35a300;
+    color: rgba(72, 42, 110, 0.062);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
@@ -38,7 +38,7 @@ body {
 }
 
 button {
-    background-color: #870cec04;
+    background-color: #633fa504;
     color: rgba(142, 13, 228, 0);
     font-family: "Bai Jamjuree", sans-serif;
 }
@@ -51,4 +51,11 @@ body {
 }
 .passo.ativo {
     display:block;
+} 
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img {
+    max-width: 90%;
 }
